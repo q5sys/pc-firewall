@@ -12,6 +12,8 @@ LICENSE=	BSD2CLAUSE
 
 LIB_DEPENDS=	libtrueos-ui.so:sysutils/trueos-libqt5
 
+WRKSRC_SUBDIR=	src
+
 CONFLICTS=	pcbsd-utils-qt*
 
 USE_QT5=	core gui network svg multimedia imageformats \
