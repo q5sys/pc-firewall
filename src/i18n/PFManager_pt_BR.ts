@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>Adicionar uma porta</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>Adicionar</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>Serviço:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>Política:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>Protocolo:</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>Bloquear</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>Permitir</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>Interface:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>Porta:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>Direção:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Cancelar</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>Configuração</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>Exceções</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>Serviço</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>Porta</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>Política</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>Interface</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -115,35 +48,28 @@
         <translation>Re&amp;inicio</translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation>&amp;Adicionar entrada</translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation>&amp;Editar entrada</translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation>&amp;Apagar entrada</translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>entrando</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>saindo</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -181,20 +107,6 @@ Você tem certeza disso?</translation>
     <message>
         <source>Failed to restart!</source>
         <translation>Falha ao reiniciar!</translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>Erro ao abrir o arquivo rc.conf especificado.</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>Desconhecido</translation>
     </message>
 </context>
 </TS>

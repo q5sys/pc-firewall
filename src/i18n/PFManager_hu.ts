@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>Új port</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>Új</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>Szolgáltatás:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>Szabály:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>Protokoll:</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>Blokkol</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>Enged</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>Csatoló:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>Port:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>Irány:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>Rendben</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Mégse</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>Konfiguráció</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>Kivételek</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>Szolgáltatás</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>Port</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>Szabály</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>Csatoló</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -119,38 +52,28 @@
             </translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation type="unfinished">
-            </translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation type="unfinished">
-            </translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation type="unfinished">
-            </translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>bejövő</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>kimenő</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -188,20 +111,6 @@ Biztos benne?</translation>
     <message>
         <source>Failed to restart!</source>
         <translation>Nem sikerült újraindítani!</translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>Hiba a megadott rc.conf-fájl megnyitásakor.</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>Ismeretlen</translation>
     </message>
 </context>
 </TS>

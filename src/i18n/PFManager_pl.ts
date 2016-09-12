@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>Dodaj port</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>Dodaj</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>Usługa:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>Polityka:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>Protokół:</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>Zablokuj</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>Zezwól</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>Interfejs:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>Port:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>Kierunek:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Anuluj</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>Konfiguracja</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>Wyjątki</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>Usługa</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>Port</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>Polityka</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>Interfejs</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -115,35 +48,28 @@
         <translation>&amp;Restart</translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation>&amp;Dodaj wpis</translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation>&amp;Edytuj wpis</translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation>&amp;Usuń wpis</translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>przychodzące</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>wychodzące</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -181,20 +107,6 @@ Jesteś pewien?</translation>
     <message>
         <source>Failed to restart!</source>
         <translation>Nie udało się restartować!</translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>Błąd otwarcia podanego pliku &quot;rc.conf&quot;.</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>Nieznany</translation>
     </message>
 </context>
 </TS>

@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>Tilføj en port</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>Tilføj</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>Tjeneste:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>Politik:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>Protokol:</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>Bloker</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>Tillad</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>Grænseflade:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>Port:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>Retning:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Annuller</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>Konfiguration</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>Undtagelser</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>Tjeneste</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>Port</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>Politik</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>Grænseflade</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -119,38 +52,28 @@
             </translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation type="unfinished">
-            </translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation type="unfinished">
-            </translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation type="unfinished">
-            </translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>indkommende        </translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>udgående</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP        </translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -191,20 +114,6 @@ Are you sure?</source>
         <source>Failed to restart!</source>
         <translation type="unfinished">
             </translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>Der skete en fejl under åbningen af den specificerede rc.conf fil.</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>Ukendt</translation>
     </message>
 </context>
 </TS>

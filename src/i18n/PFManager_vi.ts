@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>Thêm một cổng            </translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>Thêm    </translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>Sịch vụ: </translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>Chính sách:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>Giao thức:        </translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>Chặn      </translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>Cho phép       </translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>Giao diện:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>Cổng:      </translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>Hướng:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Huỷ      </translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>Cấu hình    </translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>Trường hợp ngoại lệ  </translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>Vụ       </translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>Cổng    </translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>Chính sách </translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>Giao diện</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -115,35 +48,28 @@
         <translation>Lại&amp;bắt đầu</translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation>&amp;Thêm nhập cảnh</translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation>&amp;Sửa đổi nhập cảnh</translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation>&amp;Xóa mục nhập</translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>Mới vào ở    </translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>sự đi ra ngoài    </translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP       </translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP     </translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -181,20 +107,6 @@ Bạn có chắc chắn?       </translation>
     <message>
         <source>Failed to restart!</source>
         <translation>Không thể khởi động lại!  </translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>Lỗi mở tập tin rc.conf định.   </translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>Chưa biết      </translation>
     </message>
 </context>
 </TS>

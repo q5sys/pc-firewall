@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>Добави порт</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>Добави</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>Услуга:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>Действие:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>Протокол:</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>Блокирай</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>Разреши</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>Интерфейс:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>Порт:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>Посока:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>Ок</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Отказ</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>Конфигурация</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>Изключения</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>Услуга</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>Порт</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>Действие</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>Интерфейс</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -115,35 +48,28 @@
         <translation>Р&amp;естарт</translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation>&amp;Добави</translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation>&amp;Редактирай</translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation>&amp;Изтрий</translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>входящ</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>изходящ</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -181,20 +107,6 @@ Are you sure?</source>
     <message>
         <source>Failed to restart!</source>
         <translation>Неуспешно рестартиране!</translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>Грешка при отварянето на rc.conf файла.</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>Непознато</translation>
     </message>
 </context>
 </TS>

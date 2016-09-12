@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>Lisää portti</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>Lisää</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>Palvelu:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>Politiikka:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>Protokolla:</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>Estä</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>Salli</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>Verkkoliityntä:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>Portti:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>Suunta:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>Ok</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Peruuta</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>Asetukset</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>Poikkeukset</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>Palvelu</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>Portti</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>Politiikka</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>Verkkoliityntä</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -119,38 +52,28 @@
             </translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation type="unfinished">
-            </translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation type="unfinished">
-            </translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation type="unfinished">
-            </translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>sisääntuleva</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>ulosmenevä</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -188,20 +111,6 @@ Oletko varma?</translation>
     <message>
         <source>Failed to restart!</source>
         <translation>Uudelleenkäynnistys epäonnistui!</translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>Annetun rc.conf tiedoston avaus epäonnistui.</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>Tuntematon</translation>
     </message>
 </context>
 </TS>

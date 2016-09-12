@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>ポートの追加</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>サービス:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>ポリシー:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>プロトコル:</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>インターフェイス:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>ポート:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>方向:</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>追加</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>ブロック(&amp;B)</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>許可(&amp;A)</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>&amp;OK</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>キャンセル(&amp;C)</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>設定</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>例外規程</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>サービス</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>ポート</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>ポリシー</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>インターフェイス</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -115,35 +48,28 @@
         <translation>再起動する(&amp;R)</translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation>エントリーを追加する(&amp;A)</translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation>エントリーを変更する(&amp;E)    </translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation>エントリーを削除する(&amp;D)</translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>着信</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>発信</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -181,20 +107,6 @@ Are you sure?</source>
     <message>
         <source>Failed to restart!</source>
         <translation>再起動に失敗しました!</translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>エラーのため rc.conf ファイルを開けません。</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>不明</translation>
     </message>
 </context>
 </TS>

@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>Pievienot portu</translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>Pievienot</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>Pakalpojums:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>Politika:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>Protokols:</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>Bloķēt</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>Atļaut</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>Saskarne:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>Ports:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>Virziens:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>Labi</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>Atcelt</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>Konfigurācija</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>Izņēmumi</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>Pakalpojums</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>Ports</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>Politika</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>Saskarne</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -115,35 +48,28 @@
         <translation>Re&amp;startēt</translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation>Pievienot ier&amp;akstu</translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation>R&amp;ediģēt ierakstu</translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation>&amp;Dzēst ierakstu</translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>ienākošie</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>izejošie</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -181,20 +107,6 @@ Vai tiešām to vēlies?</translation>
     <message>
         <source>Failed to restart!</source>
         <translation>Neizdevās restartēt!</translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>Kļūme atverot norādīto rc.conf failu.</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>Nezināms</translation>
     </message>
 </context>
 </TS>

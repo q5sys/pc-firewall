@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add a port</source>
-        <translation>पोर्ट जमा करना </translation>
-    </message>
-    <message>
-        <source>Add</source>
-        <translation>जमा करना </translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>व्यवस्था </translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>पॉलिसी </translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>प्रोटोकॉल</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>ब्लाक </translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>अनुमति</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>अन्त्रप्रिशाथ</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>पोर्ट </translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>दिशा </translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>ओके </translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>निरस्त </translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>संस्रुपन</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>अथवा</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>व्यवस्था</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>पोर्ट </translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>पॉलिसी </translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>अन्त्रप्रिशाथ </translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -119,38 +52,28 @@
             </translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation>&amp;एंट्री जोड़ें
-            </translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation>&amp;एंट्री संपादन
-            </translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation>&amp;एंट्री रद्द करें
-            </translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>इन्कोमिंग</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>आउटगोइंग</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>टीसीपी </translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>यूडीपी</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -191,22 +114,6 @@ Are you sure?</source>
     <message>
         <source>Failed to restart!</source>
         <translation>दोबारा शुरू करने में विफलता
-            </translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>विस्तृत rc.conf फाइल खोलने में त्रुटि
-            </translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>अज्ञात
             </translation>
     </message>
 </context>

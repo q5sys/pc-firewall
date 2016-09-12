@@ -1,57 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0">
-<context>
-    <name>AddDlg</name>
-    <message>
-        <source>Add</source>
-        <translation>添加</translation>
-    </message>
-    <message>
-        <source>Service:</source>
-        <translation>服务:</translation>
-    </message>
-    <message>
-        <source>Policy:</source>
-        <translation>策略:</translation>
-    </message>
-    <message>
-        <source>Protocol:</source>
-        <translation>协议:</translation>
-    </message>
-    <message>
-        <source>Block</source>
-        <translation>禁止</translation>
-    </message>
-    <message>
-        <source>Allow</source>
-        <translation>允许</translation>
-    </message>
-    <message>
-        <source>Interface:</source>
-        <translation>接口:</translation>
-    </message>
-    <message>
-        <source>Port:</source>
-        <translation>端口:</translation>
-    </message>
-    <message>
-        <source>Direction:</source>
-        <translation>方向:</translation>
-    </message>
-    <message>
-        <source>Ok</source>
-        <translation>确定</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation>取消</translation>
-    </message>
-    <message>
-        <source>Add a port</source>
-        <translation>添加端口</translation>
-    </message>
-</context>
+<TS version="2.1">
 <context>
     <name>MainDialog</name>
     <message>
@@ -79,24 +28,8 @@
         <translation>配置</translation>
     </message>
     <message>
-        <source>Exceptions</source>
-        <translation>例外</translation>
-    </message>
-    <message>
-        <source>Service</source>
-        <translation>服务</translation>
-    </message>
-    <message>
         <source>Port</source>
         <translation>端口</translation>
-    </message>
-    <message>
-        <source>Policy</source>
-        <translation>策略</translation>
-    </message>
-    <message>
-        <source>Interface</source>
-        <translation>接口</translation>
     </message>
     <message>
         <source>&amp;Restore default configuration</source>
@@ -119,38 +52,28 @@
             </translation>
     </message>
     <message>
-        <source>&amp;Add entry</source>
-        <translation type="unfinished">
-            </translation>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Edit entry</source>
-        <translation type="unfinished">
-            </translation>
+        <source>Open Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Delete entry</source>
-        <translation type="unfinished">
-            </translation>
-    </message>
-</context>
-<context>
-    <name>PFAddDlg</name>
-    <message>
-        <source>incoming</source>
-        <translation>进入连接</translation>
+        <source>Note: These settings are only used when the system is not being routed through Tor</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>outgoing</source>
-        <translation>外出连接</translation>
+        <source>Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>TCP</source>
-        <translation>TCP</translation>
+        <source>Close Selected Ports</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>UDP</source>
-        <translation>UDP</translation>
+        <source>Open Port</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -188,20 +111,6 @@ Are you sure?</source>
     <message>
         <source>Failed to restart!</source>
         <translation>重启失败!</translation>
-    </message>
-</context>
-<context>
-    <name>RcConfig</name>
-    <message>
-        <source>Error opening the specified rc.conf file.</source>
-        <translation>无法打开指定的rc.conf文件</translation>
-    </message>
-</context>
-<context>
-    <name>services</name>
-    <message>
-        <source>Unknown</source>
-        <translation>未知</translation>
     </message>
 </context>
 </TS>
