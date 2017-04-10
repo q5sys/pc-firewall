@@ -1,7 +1,7 @@
 # pc-firewall
 TrueOS Firewall Qt5 GUI
 
-**General Project Information: Table of Contents**
+**Project Information: Table of Contents**
 
 - [General TrueOS Information](#gentrosinfo)
 	- [TrueOS Project Documentation](#docs)
