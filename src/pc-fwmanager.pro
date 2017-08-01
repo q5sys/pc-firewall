@@ -35,6 +35,7 @@ TRANSLATIONS =  i18n/PFManager_af.ts \
 		i18n/PFManager_de.ts \
 		i18n/PFManager_el.ts \
 		i18n/PFManager_en_GB.ts \
+		i18n/PFManager_en_AU.ts \
 		i18n/PFManager_en_ZA.ts \
 		i18n/PFManager_es.ts \
 		i18n/PFManager_et.ts \
