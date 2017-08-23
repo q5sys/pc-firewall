@@ -1,4 +1,4 @@
-# pc-firewall
+# pc-firewall [DEPRECATED]
 TrueOS Firewall Qt5 GUI
 
 **Project Information: Table of Contents**
